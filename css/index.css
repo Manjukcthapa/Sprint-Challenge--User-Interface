@@ -104,7 +104,7 @@ p {
 .middle-content .boxes .box {
     width: 12.5%;
     height: 100px;
-    background: black;
+    
     margin: 20px 2.5%;
     color: white;
     display: flex;
@@ -163,6 +163,10 @@ margin-bottom:10px;
 
 }
 
+button{
+    
+}
+
 .front-container nav{
     margin-top: 20px;
     margin-right:20px;
@@ -180,10 +184,7 @@ margin-bottom:10px;
     margin-top:20px;
 }
 
-.boxes .box-one{
-    background: teal;
-    
-}
+
 
 
 .bodyone{
@@ -201,9 +202,8 @@ margin-bottom:10px;
 
 
 footer.nav a{
-    padding:20px;
     background:black;
-    margin-right:20px;
+    
 }
 
 .main-contain{
@@ -223,17 +223,51 @@ footer.nav a{
 
 .footer{
     font-size:13px;
-    margin-left:20px;
-    margin-right:20px;
-    padding:10px;
+
 }
 
-hr{
-     
-}
+
 
 .box1{
-    background-color: red;
+    background-color: teal;
+}
+
+
+.box2{
+    background-color:gold;
+}
+
+.box3{
+    background-color:cadetblue;
+}
+
+.box4{
+    background-color:coral;
+}
+
+.box5{
+    background-color: crimson;
+}
+
+.box6{
+    background-color:forestgreen;
+}
+
+
+.box7{
+    background-color:hotpink;
+}
+
+.box8{
+    background-color:indigo;
+}
+
+.box9{
+    background-color: indigo;
+}
+
+.box10{
+    background-color:dodgerblue;
 }
 
 
