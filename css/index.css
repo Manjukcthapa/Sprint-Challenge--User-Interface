@@ -186,9 +186,8 @@ margin-bottom:10px;
 
 .body-part{
     width:230px;
+
     
-
-
     
 
 }
@@ -197,6 +196,11 @@ margin-bottom:10px;
     display:flex;
     
     
+    
+}
+
+.box-one{
+    background-color: aqua;
 }
 
 
