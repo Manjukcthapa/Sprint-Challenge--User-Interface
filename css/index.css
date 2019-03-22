@@ -156,29 +156,14 @@ margin-bottom:10px;
     line-height:40px;
     margin-left : 30px;
     text-decoration: none;
-    padding:25px;
+    padding:25px;}
 
     
-}
-
-
-
-
-
-hr{
-    border-style:1px dotted grey;
-}
-
-
-
 .front-container img{
+    width:60px;
     height:30px;
-    margin-top: 20px;
 }
-
-.logo1{
-    margin-top:20px;
-}
+    
 
 
 
@@ -195,7 +180,9 @@ hr{
 
 }
  
-
+hr{
+    border: 1px dotted black;
+}
 
 footer.nav a{
     background:black;
@@ -267,7 +254,6 @@ footer.nav a{
 .box10{
     background-color:dodgerblue;
 }
-
 
 
 
