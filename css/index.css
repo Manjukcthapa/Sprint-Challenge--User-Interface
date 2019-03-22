@@ -148,7 +148,7 @@ footer nav a {
 .front-container{
 display: flex;
 justify-content: row;
-
+padding:15px;
 margin-bottom:10px;
 }
 
@@ -157,21 +157,19 @@ margin-bottom:10px;
     margin-left : 30px;
     text-decoration: none;
     padding:25px;
-    
 
     
-
 }
 
 
 
-.front-container nav{
-    margin-top: 20px;
-    margin-right:20px;
-    
-   
-      
+
+
+hr{
+    border-style:1px dotted grey;
 }
+
+
 
 .front-container img{
     height:30px;
@@ -203,6 +201,8 @@ footer.nav a{
     background:black;
     
 }
+
+
 
 .main-contain{
     display:flex;
@@ -267,23 +267,6 @@ footer.nav a{
 .box10{
     background-color:dodgerblue;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
