@@ -144,3 +144,77 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+.front-container{
+display: flex;
+justify-content: row;
+
+margin-bottom:10px;
+}
+
+.front-container nav a{
+    line-height:40px;
+    margin-left : 30px;
+    text-decoration: none;
+    padding:25px;
+    
+
+    
+
+}
+
+.front-container nav{
+    margin-top: 20px;
+    margin-right:20px;
+    
+   
+      
+}
+
+.front-container img{
+    height:30px;
+    margin-top: 20px;
+}
+
+.logo1{
+    margin-top:20px;
+}
+
+.bodyone{
+    margin-top: 20px;
+}
+
+.body-part{
+    width:230px;
+    
+
+
+    
+
+}
+
+.main-one{
+    display:flex;
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
