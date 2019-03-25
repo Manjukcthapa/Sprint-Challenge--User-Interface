@@ -104,7 +104,7 @@ p {
 .middle-content .boxes .box {
     width: 12.5%;
     height: 100px;
-    background: black;
+    
     margin: 20px 2.5%;
     color: white;
     display: flex;
@@ -144,3 +144,116 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+.front-container{
+display: flex;
+justify-content: row;
+padding:15px;
+margin-bottom:10px;
+}
+
+.front-container nav a{
+    line-height:40px;
+    margin-left : 30px;
+    text-decoration: none;
+    padding:25px;}
+
+    
+.front-container img{
+    width:60px;
+    height:30px;
+}
+    
+
+
+
+
+.bodyone{
+    margin-top: 20px;
+}
+
+.body-part{
+    width:230px;
+    padding:10px;
+    justify-content: space-evenly; 
+
+
+}
+ 
+hr{
+    border: 1px dotted black;
+}
+
+footer.nav a{
+    background:black;
+    
+}
+
+
+
+.main-contain{
+    display:flex;
+    
+
+}
+
+.main-container2{
+    display:flex; 
+}
+
+.sub-contain{
+    margin-top:20px;
+    margin-bottom:5px;
+}
+
+.footer{
+    font-size:13px;
+
+}
+
+
+
+.box1{
+    background-color: teal;
+}
+
+
+.box2{
+    background-color:gold;
+}
+
+.box3{
+    background-color:cadetblue;
+}
+
+.box4{
+    background-color:coral;
+}
+
+.box5{
+    background-color: crimson;
+}
+
+.box6{
+    background-color:forestgreen;
+}
+
+
+.box7{
+    background-color:hotpink;
+}
+
+.box8{
+    background-color:indigo;
+}
+
+.box9{
+    background-color: indigo;
+}
+
+.box10{
+    background-color:dodgerblue;
+}
+
+
+
